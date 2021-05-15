@@ -1,0 +1,85 @@
+/*   39 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+left: 20px !important;
+top: 10px !important;
+}  */
+
+.card_image {
+    width: 200px;
+    height: auto !important;
+}
+
+.tabs a {
+    color: #64b5f6 !important;
+    font-weight: bold;
+    font-size: 16px;
+}
+ 
+.tabs .col .s4 {
+    text-align: center !important;
+    margin: 0 auto !important;
+}
+
+.tabs a .indicator {
+    background-color: #64b5f6 !important;
+}
+
+.collection {
+    border: none !important;
+}
+
+.collection-item {
+    border: none !important;
+}
+
+
+
+/***********/
+
+.imgCircle{
+    width: 150px !important;
+    height: 150px !important;
+    border-radius: 50% !important;
+    margin: 0 auto !important;
+    /*top:20px !important;*/
+}
+.cityName {
+    font-weight: bold;
+    font-size: 12px;
+}

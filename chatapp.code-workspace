@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "chatapp-fontend"
+		},
+		{
+			"path": "chatapp-backend"
+		},
+		{
+			"path": "chatapp-ionic"
+		}
+	],
+	"settings": {}
+}
